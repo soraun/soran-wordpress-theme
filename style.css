@@ -1,0 +1,21 @@
+/*
+Theme Name: Soran Theme
+Author: Soran
+Version: 1.0
+Text Domain: soran
+ */
+
+
+p{
+    color: rgba(255, 82, 68, 0.49);
+}
+
+h2{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: mediumvioletred;
+
+}
